@@ -10,7 +10,7 @@ This program represents a version of the game Marienbad.
 After downloading and unzipping the file, run the program "MarienbadJvsJ" for a 1-on-1 game or run the program "MariendadJvsO" for a game against the computer.
 
 # Commands
-All commands are to be executed from the root folder containing the "src" folder.
+All commands are to be executed from the root folder containing the "src" folder.  
 Compilation:
 * javac -Xlint:deprecation -cp ./class -d ./class ./src/*.java
 
